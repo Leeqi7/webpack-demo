@@ -1,0 +1,12 @@
+#box3 {
+  width: 400px;
+  height: 300px;
+  /* background-image: url("./img/react.jpg"); */
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+img {
+  /*只允许缩小不允许放大，依赖于父级容器的尺寸*/
+  max-height: 100%;
+  max-width: 100%;
+}

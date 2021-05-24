@@ -1,0 +1,8 @@
+#box {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  display: flex;
+  backface-visibility: hidden;
+  /*压缩css测试*/
+}

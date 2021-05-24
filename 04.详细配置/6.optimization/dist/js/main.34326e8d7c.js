@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[179],{971:function(n,e,s){s.e(786).then(s.bind(s,715)).then((({add:n})=>{console.log(n(1,2))}))}},function(n){"use strict";var e;e=971,n(n.s=e)}]);
